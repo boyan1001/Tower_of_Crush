@@ -1,4 +1,5 @@
-# 神魔 Crush (Tower of Crush)  
+![image](https://github.com/user-attachments/assets/2cdee5c1-c273-4a9b-a449-e52ed76b49c2)  
+
   
 ![contributor](https://img.shields.io/github/contributors/boyan1001/Tower_of_Crush?style=for-the-badge)
 ![license](https://img.shields.io/github/license/boyan1001/Tower_of_Crush?style=for-the-badge)
