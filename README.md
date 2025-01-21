@@ -52,7 +52,7 @@ Tower_of_Crush
 ## ⚙️ 執行程式
 如果你已安裝完環境後，請解壓縮後進入 code 資料夾，開啟 main 並點下「開始執行」鍵，即可遊玩遊戲。  
 
-遊戲內部操作畫面可以參考[本影片](https://drive.google.com/drive/u/2/home)  
+遊戲內部操作畫面可以參考[本影片](https://drive.google.com/file/d/1FOGtAv9Mc0aZwU88hmSRFNoRTJ70rMbs/view?usp=sharing)  
 
 ## 🛠️ 貢獻者須知  
 
